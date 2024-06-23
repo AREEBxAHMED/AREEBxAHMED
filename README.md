@@ -1,61 +1,91 @@
 # 💻 Welcome to My GitHub Profile!
 
-![GitHub Banner](https://your-image-link-here) <!-- You can add your banner image link here -->
+
 
 ## 🌟 About Me
 
-Hello! I'm [Your Name], a passionate and enthusiastic Frontend Web Developer with a strong foundation in Computer Science. I love to solve complex problems and build efficient, scalable web applications. I am also proficient in SQL, MS Word, C++, and JavaScript. My goal is to leverage my skills to create impactful software solutions and contribute to the tech community.
+Hello! I'm **Areeb Ahmed**, a passionate student of BS Computer Science with a lifelong enthusiasm for computers. I am currently seeking an internship to improve my skills and learn new ones. As the Proctor of the Computer Science department, I have developed strong leadership and organizational skills. I am committed to applying my knowledge in a professional setting to contribute effectively and achieve personal growth.
 
-- 🔭 I’m currently working on [Your Project Name].
-- 🌱 I’m currently learning [New Technology or Skill].
-- 👯 I’m looking to collaborate on [Project Type].
-- 💬 Ask me about Frontend Development, Computer Science, and Error Solving.
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Your Fun Fact]
+- 📧 Email: [Arbi786166@gmail.com](mailto:Arbi786166@gmail.com)
+- 🌐 GitHub: [AREEBxAHMED](https://github.com/AREEBxAHMED)
+- 📱 Phone: +923445623202
+- 💼 LinkedIn: [Areeb Ahmed](https://www.linkedin.com/in/areebahmed001/)
 
-## 🛠️ Skills & Tools
+## 🎯 Objectives & Personal Statement
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+I am an enthusiastic student of BS Computer Science with a lifelong passion for computers and currently seeking an internship to improve my skills and learn new ones. As the Proctor of the Computer Science department, I have developed strong leadership and organizational skills. I am committed to applying my knowledge in a professional setting to contribute effectively and achieve personal growth.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 🛠️ Experiences
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MS Word](https://img.shields.io/badge/-MS%20Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+### Project: (HTML/CSS/JS)
+**"Fusion Arcade" Gaming Zone Concept** - Featuring two games: Quiz and Ball Blitz.  
+[Project Link](https://areebxahmed.github.io/PROJECT-WEBSITE-/)
 
-## 🚀 Projects
+### Freelance Project Developer
+- Created academic projects for university students on a freelance basis, receiving payment for my work.
+- Improved problem-solving and project management skills.
+- Gained experience in handling client requirements and delivering on time.
 
-### [Project Name](https://github.com/your-username/your-project)
-A brief description of the project. What technologies you used and what problem it solves.
+### Proctor, Department of Computer Science, Arid University
+- Provided support and guidance to students.
+- Ensured smooth running of departmental activities and events.
+- Developed leadership and organizational skills through coordinating various events.
 
-### [Another Project Name](https://github.com/your-username/another-project)
-A brief description of this project. Mention the key features and what you learned from it.
+### Gaming Community Manager
+- Managed and moderated Discord servers for gaming communities.
+- Organized and hosted gaming tournaments for games.
+- Enhanced community engagement and developed communication skills.
+
+## 🎓 Education
+
+- **Bachelor's degree in Computer Science** - Arid University Main Campus, Rwp  
+  [Expected Graduation 2026]
+- **HSSC in Computer Science** - Fazaia Intermediate College, Rwp  
+  [2023]
+- **SSC in Computer Science** - SLS Montessori & School, Rwp  
+  [2021]
+
+## 🛠️ Skills
+
+### Programming Languages
+- HTML, CSS, JavaScript (basic)
+- Python (Basic)
+- C++ (Advanced)
+- SQL
+
+### Technical Skills
+- Git/GitHub
+- Troubleshooting computer errors
+- Marketing
+- MS Word, Excel, Visio
+- Audacity, FL Studio
+- Adobe Lightroom, Photoshop
+
+## 🎮 Hobbies
+
+- Professional-level gaming (Valorant, CS)
+- Managing Discord servers
+- Editing
+- Installing Mobile Firmwares
+
+## 🏆 Achievements & Contributions
+
+- 🥇 Provided strong leadership as a Proctor in the Computer Science department.
+- 🥈 Successfully managed and moderated large gaming communities.
+- 🥉 Created and delivered multiple freelance academic projects on time.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Areeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AREEBxAHMED&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AREEBxAHMED&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
-
-## 🏆 Achievements
-
-- 🥇 [Achievement 1]
-- 🥈 [Achievement 2]
-- 🥉 [Achievement 3]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeb-ad-1365ba2a7/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Arbi786166@gmail.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you would like to collaborate on a project.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=AREEBxAHMED&color=brightgreen)
+
 
